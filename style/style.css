@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.mainBox {
+    margin-top: 7%;
+}
+
+.calcButton {
+    background-color: #e952a8;
+}
+
+.error {
+    color: rgb(230, 84, 84);
+}
+
+.result {
+    font-size: 50;
+}
