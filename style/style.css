@@ -4,10 +4,15 @@ body {
     justify-content: center;
     align-content: center;
     align-items: center;
+    text-align: center;
 }
 
 .mainBox {
     margin-top: 7%;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .calcButton {
@@ -23,5 +28,9 @@ body {
 }
 
 .result {
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
     font-size: 50px;
 }
